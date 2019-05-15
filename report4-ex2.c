@@ -19,7 +19,7 @@ int main(void)
     int m = n%1000;
     int k = n/1000;
     int l = k*1000;
-    int j = n-1;
+    int j = n-l;
 
     printf("%d\n", n);
     printf("%d\n", m);
