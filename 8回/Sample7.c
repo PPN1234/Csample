@@ -7,7 +7,7 @@ int main(void)
         printf("%d番目の繰り返しです。\n",i);
         i++;
     }while(i <= 5);
-
+    
     printf("繰り返しが終わりました。\n");
     return 0;
 }
